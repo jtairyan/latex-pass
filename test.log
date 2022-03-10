@@ -1,0 +1,4 @@
+Error in system2("tlmgr", args, ...) : '"tlmgr"' not found
+In addition: Warning message:
+In tlmgr(c("install", pkgs), usermode, ...) :
+TeX Live does not seem to be installed. See https://yihui.org/tinytex/.
